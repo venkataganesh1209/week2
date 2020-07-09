@@ -1,0 +1,80 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    margin: 0 auto;
+}
+section
+{
+	background: yellow;
+	padding-bottom: 5%;
+     padding-top: 5%;
+     padding-right: 3%;
+}
+#m1{
+	border: 10px double blue;
+	width: 90%;
+	height: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	background: white;
+}
+#m2
+{
+	border: 5px blue;
+	width: 98.5%;
+	margin-left: calc(2% - 5px);
+	margin-right: calc(2% - 5px);
+	height: 98.5%;
+	margin-top: calc(5% - 5px);
+	margin-bottom: calc(5% - 5px);
+	background: transparent;
+}
+#m2 h1{
+	font-size: 150%;
+	text-indent: 2%;
+	color: blue;
+}
+#m2 h3{
+	font-size: 115%;
+	text-indent: 2%;
+}
+#m2 img{
+    float:left;
+    padding-right: 0.75em;
+    padding-bottom: 0.75em;
+	margin-left: 2%;
+}
+#m2 p{
+	text-indent: 5%;
+	text-align: left;
+}
+#m2 h2{
+	font-weight: bold;
+	text-indent: 2%;
+}
+#m2 h4{
+	
+	color: blue;
+	text-align: right;
+	margin-right: 2%;
+}
+footer{
+
+border-top: 4px solid blue;
+
+text-align: center;
+
+}
+
+.f1{
+
+font-weight: 500;
+margin:10px 0px;
+text-align: right;
+
+}
+#m2 h5{
+	text-align: center;
+	font-weight: bold;
+}
